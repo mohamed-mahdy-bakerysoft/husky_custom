@@ -1,0 +1,1 @@
+OBS: EKF on wheel/IMU can be activated in `spawn_husky.launch`
